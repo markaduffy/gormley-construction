@@ -308,7 +308,7 @@ We also specialise in top end of market one off homes. You can see the range of 
 		</div>
 	</div>
 	<div class="grid_5" id="designBy">
-		<p>Design, development and hosting by <a href="http://www.markaduffy.net">Mark Duffy</a></p>
+		<p>Design, development and hosting by <a href="http://www.ponddigital.com">Pond Digital</a></p>
 		<p>
 			<a href="http://validator.w3.org/check?uri=referer"><img src="/images/valid-xhtml10.png" alt="Valid XHTML 1.0 Strict" height="31" width="88" /></a>
 			<a href="http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.gormleyconstruction.co.uk&amp;profile=css3&amp;usermedium=all&amp;warning=1"><img style="border:0;width:88px;height:31px" src="/images/vcss-blue.gif" alt="Valid CSS!" /></a>
