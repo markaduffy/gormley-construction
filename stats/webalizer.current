@@ -1,0 +1,428 @@
+# Webalizer V2.01-10 Incremental Data - 02/02/2012 21:47:32
+2012 2 2 21 47 32
+339 318 24 74 16 15 11963843 25 23 0 0 0
+10 3 83 1 2
+322 302 11627524 15 16 15 0 0
+17 16 336319 10 9 8 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+3 2 152237 2 0 0
+0 0 0 0 0 0
+3 3 98658 1 0 0
+3 3 33887 2 0 0
+2 0 58320 2 0 0
+0 0 0 0 0 0
+1 1 4681 1 0 0
+3 3 9408 2 0 0
+1 0 29160 1 0 0
+75 72 2791928 1 0 0
+0 0 0 0 0 0
+2 2 4727 1 0 0
+1 0 29160 1 0 0
+83 81 3003573 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 58320 2 0 0
+79 73 2826322 3 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+77 73 2821393 2 0 0
+3 3 37388 1 0 0
+1 1 4681 1 0 0
+0 0 0 0 0 0
+0
+0
+0
+318
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+15
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 19 140514987296 235813 22 0 0 0
+/images/gallery/pic037_large.jpg
+1 4 -2604246222170760229 358444 0 0 0 0
+/js/main.js
+0 5 -2604246222170760229 8685 0 0 0 0
+/css/main.css
+0 4 -2604246222170760229 31012 0 0 0 0
+/coda/jquery-easing.1.2.pack.js
+0 5 4294967295 17145 0 0 0 0
+/images/gallery/pic020_thumb.jpg
+1 4 0 101680 0 0 0 0
+/images/gallery/pic031_thumb.jpg
+1 4 -2604246222170760229 185352 0 0 0 0
+/images/gallery/pic012_thumb.jpg
+1 4 -2604246222170760229 109544 0 0 0 0
+/images/gallery/pic023_thumb.jpg
+1 4 -2604246222170760229 127864 0 0 0 0
+/images/gallery/pic004_thumb.jpg
+1 4 -2604246222170760229 84108 0 0 0 0
+/highslide/highslide-with-gallery.js
+0 5 -2604246222170760229 378715 0 0 0 0
+/images/gallery/pic034_thumb.jpg
+1 4 -2604246222170760229 174152 0 0 0 0
+/images/gallery/pic015_thumb.jpg
+1 4 -2604246222170760229 107652 0 0 0 0
+/images/gallery/pic026_thumb.jpg
+1 4 -2604246222170760229 118676 0 0 0 0
+/images/gallery/pic007_thumb.jpg
+1 4 -2604246222170760229 132676 0 0 0 0
+/coda/jquery-easing-compatibility.1.2.pack.js
+0 5 17179869184 7835 0 0 0 0
+/images/gallery/pic037_thumb.jpg
+1 5 0 163235 0 0 0 0
+/images/gallery/pic018_thumb.jpg
+1 4 0 74364 0 0 0 0
+/images/gallery/pic029_thumb.jpg
+1 4 0 215640 0 0 0 0
+/coda/coda-slider.1.1.1.js
+0 5 0 49855 0 0 0 0
+/images/gallery/pic043_large.jpg
+1 4 0 934600 0 0 0 0
+/images/valid-xhtml10.png
+1 4 0 7528 0 0 0 0
+/highslide/graphics/outlines/rounded-white.png
+1 4 0 8200 0 0 0 0
+/images/gallery/pic010_thumb.jpg
+1 4 0 105764 0 0 0 0
+/images/gallery/pic040_thumb.jpg
+1 4 0 183368 0 0 0 0
+/images/gallery/pic021_thumb.jpg
+1 4 0 112228 0 0 0 0
+/images/gallery/pic002_thumb.jpg
+1 4 0 96408 0 0 0 0
+/images/gallery/pic032_thumb.jpg
+1 4 0 182604 0 0 0 0
+/images/gallery/pic013_thumb.jpg
+1 4 0 104500 0 0 0 0
+/highslide/graphics/zoomout.cur
+0 4 0 1304 0 0 0 0
+/images/gallery/pic043_thumb.jpg
+1 4 0 191100 0 0 0 0
+/images/gallery/pic024_thumb.jpg
+1 4 0 129204 0 0 0 0
+/robots.txt
+0 7 0 364 0 0 0 0
+/images/gallery/pic005_thumb.jpg
+1 4 0 92904 0 0 0 0
+/images/gallery/pic035_thumb.jpg
+1 4 0 170260 0 0 0 0
+/images/gallery/pic016_thumb.jpg
+1 4 0 110988 0 0 0 0
+/images/bullet_tick.gif
+1 4 0 380 0 0 0 0
+/images/gallery/pic027_thumb.jpg
+1 4 0 75120 0 0 0 0
+/images/gallery/pic008_thumb.jpg
+1 4 0 102696 0 0 0 0
+/css/reset.css
+0 4 0 2592 0 0 0 0
+/highslide/graphics/loader.white.gif
+1 4 0 2692 0 0 0 0
+/images/gallery/pic019_thumb.jpg
+1 4 0 86008 0 0 0 0
+/images/theodolite.jpg
+1 4 0 257160 0 0 0 0
+/css/ie7.css
+0 2 0 242 0 0 0 0
+/js/jquery-1.3.2.min.js
+0 5 0 286360 0 0 0 0
+/coda/images/ajax-loader.gif
+1 4 0 43276 0 0 0 0
+/js/jquery.validate.min.js
+0 5 0 126085 0 0 0 0
+/images/gallery/pic036_large.jpg
+1 4 0 1037932 0 0 0 0
+/images/gallery/pic017_large.jpg
+1 2 0 187834 0 0 0 0
+/js/jquery.scrollTo-1.4.2.js
+0 5 0 39645 0 0 0 0
+/images/plans.jpg
+1 4 0 263284 0 0 0 0
+/images/road.jpg
+1 4 0 382612 0 0 0 0
+/images/gallery/pic039_large.jpg
+1 4 0 906264 0 0 0 0
+/images/orianna.jpg
+1 4 0 191484 0 0 0 0
+/images/construction_nhbc.jpg
+1 4 0 196856 0 0 0 0
+/images/gc_02.jpg
+1 4 0 288928 0 0 0 0
+/images/gallery/pic030_thumb.jpg
+1 4 0 184060 0 0 0 0
+/images/gallery/pic011_thumb.jpg
+1 4 0 114692 0 0 0 0
+/images/gallery/pic041_thumb.jpg
+1 4 0 149300 0 0 0 0
+/images/gallery/pic022_thumb.jpg
+1 4 0 86400 0 0 0 0
+/images/gallery/pic003_thumb.jpg
+1 4 0 95188 0 0 0 0
+/images/gallery/pic033_thumb.jpg
+1 4 0 161096 0 0 0 0
+/images/gallery/pic014_thumb.jpg
+1 4 0 118484 0 0 0 0
+/images/gallery/pic025_thumb.jpg
+1 4 0 113720 0 0 0 0
+/images/gallery/pic006_thumb.jpg
+1 4 0 100508 0 0 0 0
+/images/gallery/pic036_thumb.jpg
+1 4 0 192748 0 0 0 0
+/images/gallery/pic017_thumb.jpg
+1 4 0 107932 0 0 0 0
+/css/960.css
+0 4 0 21460 0 0 0 0
+/images/gallery/pic009_thumb.jpg
+1 4 0 92968 0 0 0 0
+/images/gallery/pic039_thumb.jpg
+1 4 0 173456 0 0 0 0
+/highslide/graphics/zoomin.cur
+0 3 0 978 0 0 0 0
+/highslide/highslide.css
+0 4 0 79668 0 0 0 0
+/images/vcss-blue.gif
+1 4 0 7036 0 0 0 0
+/images/gallery/pic012_large.jpg
+1 4 0 393268 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+86.135.221.210
+0 1 1 93917 0 0
+- 0 0
+62.24.252.133
+0 10 10 212071 1 1328101892
+- 0 0
+208.90.56.152
+0 1 1 29160 1 1328155002
+/ 0 0
+86.166.190.154
+0 75 72 2791928 1 1328090374
+- 0 0
+180.76.6.37
+0 2 1 58320 2 1328141910
+/ 0 0
+76.170.200.84
+0 76 72 2792233 1 1328126846
+- 0 0
+123.125.71.108
+0 1 1 4681 1 1328134127
+- 0 0
+207.46.194.34
+0 3 3 98658 1 1328150374
+/ 0 0
+207.46.194.45
+0 3 3 37388 1 1328219252
+/ 0 0
+184.154.48.82
+0 2 2 4727 1 1328066538
+- 0 0
+95.108.151.244
+0 3 3 9408 1 1328166147
+/ 0 0
+208.80.194.28
+0 1 1 29160 1 1328112580
+- 0 0
+50.17.103.160
+0 1 1 29160 1 1328118160
+- 0 0
+180.76.5.56
+0 1 0 29160 1 1328156262
+/ 0 0
+180.76.5.57
+0 1 0 29160 1 1328055521
+- 0 0
+180.76.5.61
+0 1 0 29160 1 1328069872
+- 0 0
+180.76.5.67
+0 1 1 60 0 0
+- 0 0
+180.76.5.142
+0 1 0 29160 1 1328098703
+- 0 0
+180.76.5.93
+0 1 0 29160 1 1328084246
+- 0 0
+180.76.5.99
+0 1 1 4681 1 1328163002
+/ 0 0
+180.76.5.170
+0 1 1 29160 1 1328127478
+- 0 0
+89.242.101.252
+0 73 71 2791502 1 1328101861
+- 0 0
+86.1.60.60
+0 77 71 2797102 1 1328118095
+- 0 0
+76.72.167.163
+0 2 2 4727 1 1328182526
+/ 0 0
+# End Of Table - sites (monthly)
+# -sites- (daily)
+86.135.221.210
+0 1 1 93917 0 0
+- 0 0
+208.90.56.152
+0 1 1 29160 1 1328155002
+/ 0 0
+180.76.6.37
+0 1 1 29160 1 1328141910
+/ 0 0
+207.46.194.34
+0 3 3 98658 1 1328150374
+/ 0 0
+207.46.194.45
+0 3 3 37388 1 1328219252
+/ 0 0
+95.108.151.244
+0 3 3 9408 1 1328166147
+/ 0 0
+180.76.5.56
+0 1 0 29160 1 1328156262
+/ 0 0
+180.76.5.67
+0 1 1 60 0 0
+- 0 0
+180.76.5.99
+0 1 1 4681 1 1328163002
+/ 0 0
+76.72.167.163
+0 2 2 4727 1 1328182526
+/ 0 0
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 32
+http://www.google.co.uk/search
+0 2
+http://www.google.co.uk/url
+0 1
+http://www.gormleyconstruction.co.uk/js/jquery-1.3.2.min.js
+0 1
+http://www.gormleyconstruction.co.uk/robots.txt
+0 1
+http://www.gormleyconstruction.co.uk/coda/jquery-easing-compatibility.1.2.pack.js
+0 1
+http://www.gormleyconstruction.co.uk/coda/coda-slider.1.1.1.js
+0 1
+http://www.google.com/hws/search
+0 1
+http://www.gormleyconstruction.co.uk/highslide/highslide-with-gallery.js
+0 1
+http://www.gormleyconstruction.co.uk/coda/jquery-easing.1.2.pack.js
+0 1
+http://www.colincreithbookkeepingservices.com/
+0 1
+http://www.gormleyconstruction.co.uk/js/main.js
+0 1
+http://www.gormleyconstruction.co.uk/js/jquery.validate.min.js
+0 1
+http://constructioncube.co.uk/construction-builders/Portrush.php
+0 1
+http://www.gormleyconstruction.co.uk/js/jquery.scrollTo-1.4.2.js
+0 1
+http://www.gormleyconstruction.co.uk/
+0 292
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 10
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; MATM)
+0 77
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.50727; OfficeLiveConnector.1.3; OfficeLivePatch.0
+0 75
+Mozilla/5.0 (compatible; Google Desktop/5.9.1005.12335; http://desktop.google.com/)
+0 1
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 3
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1
+0 1
+Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; en-gb) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Sa
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.52.7 (KHTML, like Gecko) Version/5.1.2 Safari/534.52.7
+0 73
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SearchToolbar 1.1; GTB7.2; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0;
+0 75
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 6
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; iebar; acc=; acc=none; (none); FunWebProducts; .NET CLR 1.0.3705; SpamBloc
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.2102
+0 10
+Mozilla/5.0 (compatible; MJ12bot/v1.4.1; http://www.majestic12.co.uk/bot.php?+)
+0 4
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+# End Of Table - agents
+# -search strings- 
+gormley construction
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

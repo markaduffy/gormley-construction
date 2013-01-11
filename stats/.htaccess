@@ -1,0 +1,7 @@
+<Files .stats-htpasswd>
+deny from all
+</Files>
+AuthUserFile "/home/gormleyconstruction/public_html/stats/htusers"
+AuthType Basic
+AuthName "Web Stats"
+require valid-user
