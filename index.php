@@ -261,7 +261,7 @@ We also specialise in top end of market one off homes. You can see the range of 
                         <div class="pagetitle"><span class="pageTitle">Contact Gormley Construction</span></div>
                         <div class="frontPageText">
                         	<p>Telephone: <strong>07526728093</strong></p>
-                        	<p>Email: <a href="mailto:info@gormleyconstruction.co.uk">info@gormleyconstruction.co.uk</a> or use the contact form below.</p>
+                        	<p>Email: <a href="mailto:stephengormley@hotmail.com">stephengormley@hotmail.com</a> or use the contact form below.</p>
                         </div>
                         
                         <div class="textRow">

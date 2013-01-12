@@ -2,7 +2,7 @@
 
 // Send Email
 
-$to = 'info@gormleyconstruction.co.uk';
+$to = 'stephengormley@hotmail.com';
 
 $subject = 'Website Contact - ' . strip_tags($_POST['subject']);
 
