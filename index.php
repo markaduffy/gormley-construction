@@ -110,6 +110,7 @@ We also specialise in top end of market one off homes. You can see the range of 
                         	<span>We have an extensive portfolio of developments from apartment complexes to bespoke residential builds. Click on the pictures to enlarge them.</span>
                         	<br /><br />
                         	<span style="line-height:20px">
+                        	<a id="vdcLink" href="#">VDC</a> |
                         	<a id="oriannaLink" href="#">Orianna Apartments</a> | 
                         	<a id="atlantisLink" href="#">Atlantis Apartments</a> |  
                         	<a id="rathlinLink" href="#">Rathlin Apartments</a> |  
@@ -120,6 +121,29 @@ We also specialise in top end of market one off homes. You can see the range of 
                         	</span>
                         </div>
                         <div class="developments">
+                        	<div class="currentdevelopment" id="vdcTarget"><span class="galleryTitle">VDC, Belfast</span>
+                            	<div class="galleryInfo">Commercial Refurbishment <a class="backToTop" href="#">[top]</a></div>
+	                            <div class="gallery">
+	                                <div class="highslide-gallery">
+	                                    <div class="thumbnail"><a href="../images/gallery/pic044_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic044_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>
+	                                	<div class="thumbnail"><a href="../images/gallery/pic045_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic045_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div> 
+	                                	<div class="thumbnail"><a href="../images/gallery/pic046_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic046_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>
+	                                	<div class="thumbnail"><a href="../images/gallery/pic047_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic047_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>  
+                                    </div>
+                                    <div class="highslide-gallery">
+	                                    <div class="thumbnail"><a href="../images/gallery/pic048_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic048_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>
+	                                	<div class="thumbnail"><a href="../images/gallery/pic049_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic049_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div> 
+	                                	<div class="thumbnail"><a href="../images/gallery/pic050_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic050_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>
+	                                	<div class="thumbnail"><a href="../images/gallery/pic051_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic051_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>  
+                                    </div>
+                                    <div class="highslide-gallery">
+	                                    <div class="thumbnail"><a href="../images/gallery/pic052_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic052_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>
+	                                	<div class="thumbnail"><a href="../images/gallery/pic053_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic053_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div> 
+	                                	<div class="thumbnail"><a href="../images/gallery/pic054_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic054_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>
+	                                	<div class="thumbnail"><a href="../images/gallery/pic055_large.png" class="highslide" onclick="return hs.expand(this)"><img src="../images/gallery/pic055_thumb.png" alt="Highslide JS" title="Click to enlarge" /></a></div>  
+                                    </div>
+	                            </div>
+                            </div>
                             <div class="currentdevelopment" id="oriannaTarget"><span class="galleryTitle">Orianna Apartments, Portrush</span> - <a target="_blank" href="http://maps.google.com/?ie=UTF8&layer=c&cbll=55.209942,-6.658271&panoid=n5JDIJj1tfkbIBinyU72pA&cbp=12,97.04,,0,-6.83&ll=55.209371,-6.656881&spn=0,359.995877&z=19">View Google Streetview</a>
                             	<div class="galleryInfo">16 Apartments (3 Penthouses and Underground Parking) <a class="backToTop" href="#">[top]</a></div>
 	                            <div class="gallery">

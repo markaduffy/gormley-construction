@@ -10,6 +10,10 @@ $(document).ready(function(){
 	})
 	
 	// Devlopments Target Links
+	$("#vdcLink").click(function(){
+		$("div.stripViewer").scrollTo( $('#vdcTarget'), 800 );
+	})
+
 	$("#oriannaLink").click(function(){
 		$("div.stripViewer").scrollTo( $('#oriannaTarget'), 800 );
 	})
